@@ -1,7 +1,7 @@
 <h1>Excel Data Analysis and Dashboard - Bike Store Data</h1>
 
 <h2>Description</h2>
-This project tackles messy housing market data in MySQL, with the aim of identifying and fixing inconsistencies, ensuring clean data for analysis. This paves the way for insightful visualisations and market understanding.
+This project aims to leverage Excel's data analysis capabilities to gain insights into the factors influencing customers purchase decisions. The final results are displayed in an interactive dashboard.
 <br />
 
 <h2>Languages and Utilities Used</h2>
