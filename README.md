@@ -16,7 +16,7 @@ This project tackles messy housing market data in MySQL, with the aim of identif
 
 <p align="center">
 Create table in separate worksheet: <br/>
-<img src="https://imgur.com/vD10zbE" height="80%" width="80%" alt="Excel Analysis Steps"/>
+<img src="https://imgur.com/vD10zbE.png" height="80%" width="80%" alt="Excel Analysis Steps"/>
 <br />
 <br />
 Remove duplicates:  <br/>
