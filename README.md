@@ -20,33 +20,33 @@ Create table in separate worksheet: <br/>
 <br />
 <br />
 Remove duplicates:  <br/>
-<img src="https://imgur.com/W1e1SCH" height="80%" width="80%" alt="Excel Analysis Steps"/>
+<img src="https://imgur.com/W1e1SCH.png" height="80%" width="80%" alt="Excel Analysis Steps"/>
 <br />
 <br />
 Change marital status column from M to Married: <br/>
-<img src="https://imgur.com/rDmt7Kh" height="80%" width="80%" alt="Excel Analysis Steps"/>
+<img src="https://imgur.com/rDmt7Kh.png" height="80%" width="80%" alt="Excel Analysis Steps"/>
 <br />
 <br />
 Change gender column from M to Male:  <br/>
-<img src="https://imgur.com/UGuUjPA" height="80%" width="80%" alt="Excel Analysis Steps"/>
+<img src="https://imgur.com/UGuUjPA.png" height="80%" width="80%" alt="Excel Analysis Steps"/>
 <br />
 <br />
 Create age bracket column and apply IF statement:  <br/>
-<img src="https://imgur.com/Da7UPlY" height="80%" width="80%" alt="Excel Analysis Steps"/>
+<img src="https://imgur.com/Da7UPlY.png" height="80%" width="80%" alt="Excel Analysis Steps"/>
 <br />
 <br />
 First pivot table:  <br/>
-<img src="https://imgur.com/jb5yelB" height="80%" width="80%" alt="Excel Analysis Steps"/>
+<img src="https://imgur.com/jb5yelB.png" height="80%" width="80%" alt="Excel Analysis Steps"/>
 <br />
 <br />
 Second pivot table:  <br/>
-<img src="https://imgur.com/r6sT9y4" height="80%" width="80%" alt="Excel Analysis Steps"/>
+<img src="https://imgur.com/r6sT9y4.png" height="80%" width="80%" alt="Excel Analysis Steps"/>
 <br />
 <br />
 Third pivot table:  <br/>
-<img src="https://imgur.com/VZUl0BC" height="80%" width="80%" alt="Excel Analysis Steps"/>
+<img src="https://imgur.com/VZUl0BC.png" height="80%" width="80%" alt="Excel Analysis Steps"/>
 <br />
 <br />
 Dashboard:  <br/>
-<img src="https://imgur.com/QS7B36h" height="80%" width="80%" alt="Excel Analysis Steps"/>
+<img src="https://imgur.com/QS7B36h.png" height="80%" width="80%" alt="Excel Analysis Steps"/>
 </p>
